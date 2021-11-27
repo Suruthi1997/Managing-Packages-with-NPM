@@ -1,4 +1,5 @@
 {
+	"description": "A project that does something awesome",
 	"author": "Suruthi A",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
